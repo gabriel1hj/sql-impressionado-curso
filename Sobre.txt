@@ -1,0 +1,2 @@
+Neste estou fazendo as praticas do curso sqlimpressionar do telegram estou mexendo com 
+banco de dados contoso e no sql server
